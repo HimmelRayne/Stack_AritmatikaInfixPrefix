@@ -1,5 +1,6 @@
 Muhammad Ridwan Kurniawan
 Link Video: https://youtu.be/fVTGn1ZAhyc
+Output Terdapat di Screenshoot
 Buatlah program (Java & Python) untuk mengevaluasi sebuah ekspresi aritmatika dengan menggunakan struktur data Stack (boleh Array/Linked List), dengan ketentuan sebagai berikut:
 
 1. Input merupakan sebuah ekspresi aritmatika (infix)
@@ -215,3 +216,4 @@ public class EvaluasiStack {
 
 
 AI dan Web yang digunakan: Claude untuk debugging, ChatGPT untuk asisten, GeeksForGeeks sebagai sumber
+
